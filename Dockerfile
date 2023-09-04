@@ -1,4 +1,4 @@
-FROM python: 3.8.10
+FROM python:3.6
 
 RUN pip3 install mkdocs
 RUN pip3 install mkdocs-material

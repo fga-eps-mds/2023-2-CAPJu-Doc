@@ -1,1 +1,3 @@
-# 2023-2-CAPJu-Doc
+# CAPju
+
+Repostório para documentação do projeto CAPJu 2023-2.
