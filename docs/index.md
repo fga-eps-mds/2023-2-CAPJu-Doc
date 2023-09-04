@@ -45,7 +45,7 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
   </div>
   <h4 class="legenda">Amanda De Moura</h4>
 </a>
-<a class="pessoa" href="https://github.com/Brunin">
+<a class="pessoa" href="https://github.com/EhOBruno">
   <div class="photo-border">
     <img class="photo" src="assets/members/bruno_mds.jpeg" alt="Bruno">
   </div class="container-legenda" >
