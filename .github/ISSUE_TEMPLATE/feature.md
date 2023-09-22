@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Coloque os detalhes da issue
-title: '[Doc] ou [Feature] e o nome da tarefa no verbo infinitivo'
+title: "[Doc] ou [Feature] e o nome da tarefa no verbo infinitivo"
 labels: ''
 assignees: ''
 
