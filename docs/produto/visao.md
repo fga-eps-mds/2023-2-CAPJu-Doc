@@ -67,7 +67,7 @@ A etapa de "showcase" (ou apresentação/validação) do Lean Inception é o mom
 
 Foi utilizado um template criado por membros da organização [caroli.org](https://caroli.org/) para realizar as etapas descritas, pode ser encontrado nesse [link](https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1692910498619/226135c4deaf3fd4c179f53b8bd78ce91cc9362f?sender=uf4a9054fa45150139df41913).
 
-## Rerefências
+## Referências
 
 Paulo, Caroli. Lean Inception, 2003. Disponível em: <a href="https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/">https://caroli.org/livro/lean-inception-como-alinhar-pessoas-e-construir-o-produto-certo/</a>. Acesso em: 22 de setembro de 2022.
 
