@@ -75,4 +75,4 @@ Paulo, Caroli. Lean Inception, 2003. Disponível em: <a href="https://caroli.org
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| 24/09/2023 | 0.1 | Criação do documento | Brenda Santos | A definir |
+| 24/09/2023 | 1.0 | Criação do documento | Brenda Santos | A definir |
