@@ -18,12 +18,18 @@ dev_addr: "0.0.0.0:8000"
 nav:
   - Sobre: index.md
   - Planejamento: 
+    - Planejamento: planejamento/planejamento.md
   - Produto:
     - Visão do Produto: produto/visao.md
-    - Backlog do Produto: produto/backlog_do_produto.md
+    - Backlog do Produto: produto/backlog.md
     - Protótipo: produto/prototipo.md
   - Comunicacao:
     - Documento de comunicacao: comunicacao/comunicacao.md
+  - Reuniões:
+    - Reuniões com o Cliente: 
+      - Kick-off: relatorios/semana1/Kick-off.md
+    - Reuniões da Equipe:
+      - Reunião de interação: relatorios/semana1/Reuniao_de_interacao.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
