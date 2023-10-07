@@ -14,14 +14,15 @@ services:
       dockerfile: ./Dockerfile
     ports:
       - "8000:8000"
+    restart: always
     volumes:
       - ./:/docs/
     command: mkdocs serve 
   
-  deploy:
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-    volumes:
-      - ./:/docs/
-    command: mkdocs gh-deploy --force 
+  # deploy:
+  #   build:
+  #     context: .
+  #     dockerfile: ./Dockerfile
+  #   volumes:
+  #     - ./:/docs/
+  #   command: mkdocs gh-deploy --force 
