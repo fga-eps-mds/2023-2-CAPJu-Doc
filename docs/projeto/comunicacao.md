@@ -6,7 +6,7 @@ A comunicação eficaz dentro de uma equipe é fundamental para o sucesso de qua
 
 ## Reuniões
 
-Após a introdução inicial dos membros do projeto, uma tabela foi elaborada para registrar tanto os horários de disponibilidade quanto de ocupação de todos os envolvidos no projeto. Através dessa tabela, um cronograma semanal foi estabelecido para as reuniões com o cliente e as sessões de revisão das iterações, bem como para o planejamento do progresso do projeto. Em resumo, os horários das reuniões regulares com o cliente e das sessões de planejamento interno foram determinados com base nas informações contidas na tabela de disponibilidade dos membros da equipe. A tabela resultante pode ser vista na imagem abaixo:
+Após a introdução inicial dos membros do projeto, uma tabela foi elaborada para registrar tanto os horários de disponibilidade quanto de ocupação de todos os envolvidos no projeto. Através dessa tabela, um cronograma semanal foi estabelecido para as reuniões com o cliente e as sessões de revisão das iterações, bem como para o planejamento do progresso do projeto. Em resumo, os horários das reuniões regulares com o cliente e das sessões de planejamento interno foram determinados com base nas informações contidas na tabela de disponibilidade dos membros da equipe. A tabela resultante pode ser vista no documento abaixo:
 
 <center>
 <iframe width="750" height="500" src="https://docs.google.com/spreadsheets/d/1ST4uyOpGExGRr4BNW04McmDTFR9CXrfEBplaY9NUL6w/edit?usp=sharing/pubhtml?widget=true&amp;headers=false"></iframe>
@@ -39,7 +39,8 @@ Por fim, os horários de reuniões definidos e os participantes esperados são:
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
-| 01/10/2023 | 0.1.0 | Criação do documento | Harryson C. Martins/Leandro de A. Oliveira |
+| 01/10/2023 | 1.0 | Criação do documento | Davi Rodrigues |
+| 01/10/2023 | 1.0 | Revisão do documento| Daniel Rodrigues e Denniel Willian |
 
 ## Referências
 
