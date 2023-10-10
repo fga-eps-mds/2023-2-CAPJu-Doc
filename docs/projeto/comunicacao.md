@@ -37,10 +37,10 @@ Por fim, os horários de reuniões definidos e os participantes esperados são:
 
 ## Histórico de versão
 
-| Data | Versão | Descrição | Autor(es) |
-| ---- | ------ | --------- | --------- |
-| 01/10/2023 | 1.0 | Criação do documento | Davi Rodrigues |
-| 01/10/2023 | 1.0 | Revisão do documento| Daniel Rodrigues e Denniel Willian |
+| Data | Versão | Descrição | Autor(es) | Revisores |
+| ---- | ------ | --------- | --------- | --------- |
+| 01/10/2023 | 1.0 | Criação do documento | Davi Rodrigues | Jonga Matos e Daniel Rodrigues
+
 
 ## Referências
 
