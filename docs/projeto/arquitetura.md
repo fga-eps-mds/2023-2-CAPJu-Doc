@@ -40,3 +40,55 @@ as tecnologias utilizadas para o desenvolvimento.
 | 3 | Metas e Restrições da Arquitetura | Descreve os objetivos do projeto, como também suas restrições, do ponto de vista arqutetural |
 | 4 | Visão Lógica | Fornece ao leitor uma base para compreender a estrutura e a organização do design do sistema |
 | 5 | Visão de Implantação | Fornece ao leitor uma base que permitirá compreender a distribuição física do sistema em um conjunto de nós de processamento |
+
+# 2. Representação da Arquitetura
+
+## 2.1 Tecnologias
+
+&emsp;&emsp;A aplicação utilizadas no desenvolvimento tanto quanto no frontend e no bakcend são as seguintes:
+* [Typescript](https://www.typescriptlang.org/)
+&emsp;&emsp;
+* [Jest](https://jestjs.io/)
+&emsp;&emsp;
+* [Vite](https://vitejs.dev/)
+&emsp;&emsp;
+* [React](https://pt-br.reactjs.org/)
+&emsp;&emsp;
+* [Jest](https://jestjs.io/)
+&emsp;&emsp;
+* [Styled Components](https://styled-components.com/)
+&emsp;&emsp;
+* [Node.js](https://nodejs.org/en/)
+&emsp;&emsp;
+* [Express](https://expressjs.com/pt-br/)
+&emsp;&emsp;
+* [Sequelize](https://sequelize.org/)
+&emsp;&emsp;
+* [PostgreSQL](https://www.postgresql.org/)
+&emsp;&emsp;
+* [Docker](https://www.docker.com/)
+&emsp;&emsp;
+* [Babel](https://babeljs.io/)
+&emsp;&emsp;
+
+# 3. Metas e Restrições da Arquitetura
+
+## 3.1 Metas
+
+## 3.2 Restrições
+
+# 4. Visão Lógica
+
+## 4.1 Visão Geral
+
+# 5. Visão de Implantação
+
+<!-- Possíveis mais tópicos -->
+
+# Referências
+
+# Histórico de Versões
+
+| Data | Versão | Descrição | Autor(es) |
+| :---: | :---: | :---: | :---: |
+| --/10/2023 | 0.1.0 | Criação do documento | Felipe Motta |
