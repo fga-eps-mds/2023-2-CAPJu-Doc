@@ -1,4 +1,4 @@
-# Reunião da 4⁰ Semana
+# Reunião da 6⁰ Semana
 
 ## **Reunião com o PO - 16/10**
 
