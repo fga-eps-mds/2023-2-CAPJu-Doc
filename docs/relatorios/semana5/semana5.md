@@ -14,7 +14,7 @@
     - Foi removido do sequenciador porque se refere a atividades que devem ser feitas ao longo do desenvolvimento. Cliente validou.
 - **Mudanças no MVP:**
     - Funcionalidades: foram colocadas de formas mais generalizadas no MVP;
-    - Custo e cronograma: foi apresentado ao cliente de que o desenvolvimento seria realizado em 38 dias e o custo seria de R$ 70.516,80 por mês.
+    - Custo e cronograma: foi apresentado ao cliente de que o desenvolvimento seria realizado em 38 dias e o custo seria de R$ 23.505,60 por mês.
 - **Roadmap:**
     - Foi apresentado o [roadmap](https://app.zenhub.com/workspaces/2023-2-capju-64f9050709b930002693212a/roadmap).
     
@@ -48,3 +48,4 @@ Ao clicar em estatísticas deve-se mostrar cada um dos relatórios que foram lev
 | Data | Versão | Descrição | Autor(es) | Revisores |
 | ---- | ---- | ---- | ---- | ---- |
 | 07/10/2023 | 1.0 | Criação do Documento | Leandro Almeida Rocha Santos | João Gabriel e Camila Careli |
+| 19/10/2023 | 2.0 | Correção | Leandro Almeida Rocha Santos | João Gabriel e Camila Careli |
