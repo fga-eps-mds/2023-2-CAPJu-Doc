@@ -1,4 +1,4 @@
-# Análise e Retrospectiva
+# Segunda Análise e Retrospectiva
 
 ## 1. Visão Geral
 **Número da Sprint:** 2  
@@ -26,39 +26,39 @@
 
 ## 2. Resultados
 1. **História:** US13
-**Responsáveis:** Brenda e Camila
-**Pontuação:**  05
-**Status:** US não existe mais porque foi englobada a US01
+* **Responsáveis:** Brenda e Camila
+* **Pontuação:**  05
+* **Status:** US não existe mais porque foi englobada a US01
 
-1. **História:** US05
-**Responsáveis:** Brenda e Camila
-**Pontuação:** 13
-**Status:** A iniciar
+2. **História:** US05
+* **Responsáveis:** Brenda e Camila
+* **Pontuação:** 13
+* **Status:** A iniciar
 
-1. **História:** US02
-**Responsáveis:** Leandro, Joao, Camila 
-**Pontuação:** 08
-**Status:** Em andamento. Falta mostrar o front do gráfico. Acreditam que é possível entregar no domingo.
+3. **História:** US02
+* **Responsáveis:** Leandro, Joao, Camila 
+* **Pontuação:** 08
+* **Status:** Em andamento. Falta mostrar o front do gráfico. Acreditam que é possível entregar no domingo.
 
-1. **História:**   
-**Responsáveis:** Amanda e Denniel
-**Pontuação:**  
-**Status:** Em andamento. Falta gráfico e mostrar os processos depois que o usuário seleciona a etapa. Acreditam que não é possível entregar hoje.
+4. **História:**   
+* **Responsáveis:** Amanda e Denniel
+* **Pontuação:**  
+* **Status:** Em andamento. Falta gráfico e mostrar os processos depois que o usuário seleciona a etapa. Acreditam que não é possível entregar hoje.
 
-1. **História:** US06
-**Responsáveis:** Nicolas e Bruno
-**Pontuação:**  13
-**Status:** US pendente porque Nicolas (membro de EPS), se recusou a se comunicar com o time. O frontend foi construído em um protótipo não validado. 
+5. **História:** US06
+* **Responsáveis:** Nicolas e Bruno
+* **Pontuação:**  13
+* **Status:** US pendente porque Nicolas (membro de EPS), se recusou a se comunicar com o time. O frontend foi construído em um protótipo não validado. 
 
-1. **História:**  US04
-**Responsáveis:** Washington e Felipe
-**Pontuação:**  05
-**Status:** A finalizar. Depende da US06, restando somente ajustar o frontend. Acreditam finalizar no domingo.
+6. **História:**  US04
+* **Responsáveis:** Washington e Felipe
+* **Pontuação:**  05
+* **Status:** A finalizar. Depende da US06, restando somente ajustar o frontend. Acreditam finalizar no domingo.
 
-1. **História:** US14
-**Responsáveis:** Brenda, Daniel e Davi
-**Pontuação:** 13
-**Status:** Em andamento. Protótipo elaborado se demonstrou mais complexo do que esperado. De tal forma, a issue atrasou.
+7. **História:** US14
+* **Responsáveis:** Brenda, Daniel e Davi
+* **Pontuação:** 13
+* **Status:** Em andamento. Protótipo elaborado se demonstrou mais complexo do que esperado. De tal forma, a issue atrasou.
 
 ## 3. Retrospectiva
 
