@@ -27,3 +27,9 @@
 - História do Projeto;
     - Das atualizações que a aplicação sofreu nos outros semestre
     - O impacto da equipe de desenvolvimento no projeto até a finalização do CapJu
+
+## Histórico de Versões
+
+| Data | Versão | Descrição | Autor(es) |
+| ------------- | ------------- | ------------- | ------------- | 
+| 07/10/2023 | 1.0 | Criação do documento | Amanda De Moura |
