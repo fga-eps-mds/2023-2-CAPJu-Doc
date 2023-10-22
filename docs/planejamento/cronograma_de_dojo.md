@@ -10,4 +10,4 @@ Treinamentos (Dojos) Executados / Planejados:
 | ---- | ---- | ---- | ---- | ---- |
 | 07/10/2023 | 1.0 | Criação do Documento | Leandro Almeida | Davi Rodrigues e Denniel William |
 | 20/10/2023 | 2.0 | Correção do Link | Leandro Almeida | Davi Rodrigues e Denniel William |
-| 22/10/2023 | 2.1 | Correção de gramática | Washington |  |
+| 22/10/2023 | 2.1 | Correção de gramática | Washington | Denniel e Brenda |

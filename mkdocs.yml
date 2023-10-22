@@ -15,16 +15,24 @@ theme:
 extra_css:
   - stylesheets/styles.css
 dev_addr: "0.0.0.0:8000"
+
 nav:
   - Sobre: index.md
+  - Manual do desenvolvedor: manual_do_desenvolvedor.md
   - Planejamento: 
     - Planejamento: planejamento/planejamento.md
+    - Cronograma de dojo: planejamento/cronograma_de_dojo.md
+    - Relatório de eventos: 
+      - Sprint 00 - Planejamento: sprints/sprint-00/sprint0-planning.md
+      - Sprint 00 - Review: sprints/sprint-00/sprint0-review.md
   - Produto:
     - Visão do Produto: produto/visao.md
     - Backlog do Produto: produto/backlog.md
+    - Documento de identidade: produto/identidade.md
     - Protótipo: produto/prototipo.md
   - Comunicacao:
     - Documento de comunicacao: comunicacao/comunicacao.md
+    - Rituais da equipe: comunicacao/rituais.md
   - Reuniões:
     - Reuniões com o Cliente: 
       - Kick-off: relatorios/semana1/Kick-off.md

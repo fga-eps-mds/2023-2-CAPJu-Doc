@@ -6,8 +6,6 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
   </h3>
 </div>
 
-
-
 <div>
 <h1 style="color: #011640; font-weight: bold; text-align: center"> Códigos fonte </h1>
 <div class="pictures">
