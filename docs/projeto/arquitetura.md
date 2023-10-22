@@ -47,41 +47,68 @@ as tecnologias utilizadas para o desenvolvimento.
 
 &emsp;&emsp;A aplicação utilizadas no desenvolvimento tanto quanto no frontend e no bakcend são as seguintes:
 * [Typescript](https://www.typescriptlang.org/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.
 * [Jest](https://jestjs.io/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Jest é um framework de teste de JavaScript para gerar testes de forma simples e eficaz.
 * [Vite](https://vitejs.dev/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Vite é um build tool que permite que o desenvolvimento de aplicações frontend seja mais rápido e eficiente.
 * [React](https://pt-br.reactjs.org/)
-&emsp;&emsp;
-* [Jest](https://jestjs.io/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
 * [Styled Components](https://styled-components.com/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Styled Components é uma biblioteca que permite escrever CSS em JavaScript.
 * [Node.js](https://nodejs.org/en/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Node.js é um ambiente de execução Javascript server-side, utilzando V8.
 * [Express](https://expressjs.com/pt-br/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Express é um framework para Node.js que fornece recursos mínimos para construção de servidores web.
 * [Sequelize](https://sequelize.org/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Sequelize é um ORM (Object-Relational Mapping) baseado em promessas para Node.js.
 * [PostgreSQL](https://www.postgresql.org/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;PostgreSQL é um sistema gerenciador de banco de dados objeto relacional.
 * [Docker](https://www.docker.com/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Docker é uma plataforma de software que permite a criação, o teste e a implantação de aplicativos rapidamente.
 * [Babel](https://babeljs.io/)
-&emsp;&emsp;
+<br>
+&emsp;&emsp;Babel é um compilador JavaScript gratuito e de código aberto e transpilador de JavaScript usado principalmente para converter o código ECMAScript 2015+ em uma versão compatível com versões anteriores do JavaScript em navegadores ou ambientes atuais e mais antigos.
 
 # 3. Metas e Restrições da Arquitetura
 
 ## 3.1 Metas
 
+* Reusabilidade de código
+* Baixo acoplamento, facilitando a manutenção futura do código
+* Tornar o desenvolvimento do aplicativo mais rápido
+
 ## 3.2 Restrições
+
+* Depende de uma conexão com a internet
+* Possuir conexão com o serviço de back-end por API HTTP;
+* Possuir conexão com o Banco de Dados.
 
 # 4. Visão Lógica
 
 ## 4.1 Visão Geral
 
+&emsp;&emsp;O projeto CAPJu utiliza uma arquitetura MVC baseada em microsserviços. A sigla MVC vem dos termos em inglês Model (modelo) View (visão) e Controller (Controle). Essa arquitetura facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas. A base em microsserviços separa a camada de Visão da de Modelo e Controle em programas diferentes e independentes.
+<br>
+&emsp;&emsp;O servidor é dividido em 6 microsserviços, sendo eles: user, unit, processManagement, role, note, mailer, sendo eles para gerenciamento de usuários, gerenciamento de unidades, gerenciamento de processos, fluxos e etapas, gerenciamento de cargos e permissões, gerenciamento de notas como comentários e auditorias, e gerenciamento de e-mail e notificações, respectivamente.
+<br>
+&emsp;&emsp;O repositório Config é responsável por abrigar configurações do Nginx (funcionando como um proxy reverso) e do Banco de Dados.
+
 # 5. Visão de Implantação
+
+## 5.1 Diagrama de Entidade e Relacionamento
+
+![Diagrama de Entidade e Relacionamento](../produto/assets/Diagrams/Diagram-entity-relation.png)
 
 <!-- Possíveis mais tópicos -->
 
@@ -91,4 +118,4 @@ as tecnologias utilizadas para o desenvolvimento.
 
 | Data | Versão | Descrição | Autor(es) |
 | :---: | :---: | :---: | :---: |
-| --/10/2023 | 0.1.0 | Criação do documento | Felipe Motta |
+| 21/10/2023 | 0.1.0 | Criação do documento | Felipe Motta e Nícolas Georgeos |
