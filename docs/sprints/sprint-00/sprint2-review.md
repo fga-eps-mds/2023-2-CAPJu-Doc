@@ -11,12 +11,11 @@
 * Documento de relatorio de eventos;
 * Documento de Arquitetura;
 * US13 (Visualizar Processos na Etapa de um fluxo);
-* US05 (Baixar Relatório em Formato CSV e PDF);
 * US02 (Estatística da quatidade de processos concluídos e interrompidos por fluxo);
-* US01 (Visuualizar quantidade de processos em cada etapa de um fluxo);
+* US01 (Visualizar quantidade de processos em cada etapa de um fluxo);
 * US06 (Visualizar o histórico das atividades dos processos);
 * US04 (Visualizar o histórico de conclusão dos processos por Etapa);
-* US14 (Visualizar Relatório de processos pela data de venciemto de uma etapa);
+* US14 (Visualizar Relatório de processos pela data de vencimento de uma etapa);
 
 **Pontos Entregues:**
 * Documento do cronograma do dojos;
