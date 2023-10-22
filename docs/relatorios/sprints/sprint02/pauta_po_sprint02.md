@@ -1,4 +1,4 @@
-# Reunião da 6⁰ Semana
+# Reunião com P.O - Sprint 02
 
 ## **Reunião com o PO - 16/10**
 

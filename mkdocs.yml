@@ -40,10 +40,18 @@ nav:
         - Semana 03 - Reunião Lean Inception Pt.2: relatorios/semana3/Reuniao_do_Lean_Inception_pt02.md
         - Semana 03 - Reunião Lean Inception Pt.3: relatorios/semana3/Reuniao_Lean_Inception_pt03.md
         - Semana 03 - Dojo Typescript: relatorios/semana3/Dojo _typescript.md
-      - Semana 04: 
+      - Semana 04:
+        - Semana 04 - Dojo Typescript: relatorios/semana4/Dojo_ReactJS.md
         - Semana 04: relatorios/semana4/semana4.md
       - Semana 05: 
         - Semana 05: relatorios/semana5/semana5.md
+      - Sprint 01: 
+        - Planning: relatorios/sprints/sprint01/planning.md
+        - Review: relatorios/sprints/sprint01/review.md
+      - Sprint 02:
+        - Alinhamento PO: relatorios/sprints/sprint02/pauta_po_sprint02.md 
+        - Planning: relatorios/sprints/sprint02/planning.md
+        - Review: relatorios/sprints/sprint02/review.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
