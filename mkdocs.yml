@@ -22,9 +22,7 @@ nav:
   - Planejamento: 
     - Planejamento: planejamento/planejamento.md
     - Cronograma de dojo: planejamento/cronograma_de_dojo.md
-    - Relatório de eventos: 
-      - Sprint 00 - Planejamento: sprints/sprint-00/sprint0-planning.md
-      - Sprint 00 - Review: sprints/sprint-00/sprint0-review.md
+    - Quadro de conhecimento: planejamento/quadro_de_conhecimento.md
   - Produto:
     - Visão do Produto: produto/visao.md
     - Backlog do Produto: produto/backlog.md
@@ -33,11 +31,19 @@ nav:
   - Comunicacao:
     - Documento de comunicacao: comunicacao/comunicacao.md
     - Rituais da equipe: comunicacao/rituais.md
-  - Reuniões:
-    - Reuniões com o Cliente: 
-      - Kick-off: relatorios/semana1/Kick-off.md
-    - Reuniões da Equipe:
-      - Reunião de interação: relatorios/semana1/Reuniao_de_interacao.md
+    - Relatório de eventos: 
+      - Semana 01: 
+        - Semana 01 - Primeiro contato: relatorios/semana1/Primeiro_contato.md
+        - Semana 01 - Kick-off: relatorios/semana1/Kick-off.md
+        - Semana 01 - Reunião de interação: relatorios/semana1/Reuniao_de_interacao.md
+      - Semana 03: 
+        - Semana 03 - Reunião Lean Inception Pt.2: relatorios/semana3/Reuniao_do_Lean_Inception_pt02.md
+        - Semana 03 - Reunião Lean Inception Pt.3: relatorios/semana3/Reuniao_Lean_Inception_pt03.md
+        - Semana 03 - Dojo Typescript: relatorios/semana3/Dojo _typescript.md
+      - Semana 04: 
+        - Semana 04: relatorios/semana4/semana4.md
+      - Semana 05: 
+        - Semana 05: relatorios/semana5/semana5.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
