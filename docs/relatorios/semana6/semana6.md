@@ -21,7 +21,7 @@
 ## **Reunião com o PO - 18/10**
 
 - **Objetivo da reunião:** Atualização ao PO com as conclusões e demandas da Sprints
-- **Participantes:** Membros de desenvolvimento do CAPJu
+- **Participantes:** Membros de desenvolvimento do CAPJu e o P.O
 - **Ausentes:**
     - **EPS:** João Gabriel de Campos de Matos
     - **MDS:** Davi Rodrigues da Rocha
