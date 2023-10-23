@@ -4,8 +4,57 @@ theme:
   favicon: assets/logo.png
   name: material
   features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
     - navigation.tabs
+    - navigation.top
+    - navigation.tracking
 extra_css:
   - stylesheets/styles.css
-
 dev_addr: "0.0.0.0:8000"
+
+nav:
+  - Sobre: index.md
+  - Manual do desenvolvedor: manual_do_desenvolvedor.md
+  - Planejamento: 
+    - Planejamento: planejamento/planejamento.md
+    - Cronograma de dojo: planejamento/cronograma_de_dojo.md
+    - Quadro de conhecimento: planejamento/quadro_de_conhecimento.md
+  - Produto:
+    - Visão do Produto: produto/visao.md
+    - Backlog do Produto: produto/backlog.md
+    - Documento de identidade: produto/identidade.md
+    - Protótipo: produto/prototipo.md
+  - Comunicacao:
+    - Documento de comunicacao: comunicacao/comunicacao.md
+    - Rituais da equipe: comunicacao/rituais.md
+    - Relatório de eventos: 
+      - Semana 01: 
+        - Semana 01 - Primeiro contato: relatorios/semana1/Primeiro_contato.md
+        - Semana 01 - Kick-off: relatorios/semana1/Kick-off.md
+        - Semana 01 - Reunião de interação: relatorios/semana1/Reuniao_de_interacao.md
+      - Semana 03: 
+        - Semana 03 - Reunião Lean Inception Pt.2: relatorios/semana3/Reuniao_do_Lean_Inception_pt02.md
+        - Semana 03 - Reunião Lean Inception Pt.3: relatorios/semana3/Reuniao_Lean_Inception_pt03.md
+        - Semana 03 - Dojo Typescript: relatorios/semana3/Dojo _typescript.md
+      - Semana 04:
+        - Semana 04 - Dojo Typescript: relatorios/semana4/Dojo_ReactJS.md
+        - Semana 04: relatorios/semana4/semana4.md
+      - Semana 05: 
+        - Semana 05: relatorios/semana5/semana5.md
+      - Sprint 01: 
+        - Planning: relatorios/sprints/sprint01/planning.md
+        - Review: relatorios/sprints/sprint01/review.md
+      - Sprint 02:
+        - Alinhamento PO: relatorios/sprints/sprint02/pauta_po_sprint02.md 
+        - Planning: relatorios/sprints/sprint02/planning.md
+        - Review: relatorios/sprints/sprint02/review.md
+  - Projeto:
+    - Documento de arquitetura: projeto/arquitetura.md 
+    - Documento de custos: projeto/custos.md
+    - EAP: projeto/eap.md
+    - GCS: projeto/gcs.md
+    - Documento de riscos: projeto/riscos.md

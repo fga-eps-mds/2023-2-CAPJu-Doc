@@ -108,7 +108,7 @@ as tecnologias utilizadas para o desenvolvimento.
 
 ## 5.1 Diagrama de Entidade e Relacionamento
 
-![Diagrama de Entidade e Relacionamento](../produto/assets/Diagrams/Diagram-entity-relation.png)
+![Diagrama de Entidade e Relacionamento](../assets/Diagrams/Diagram-entity-relation.png)
 
 <!-- Possíveis mais tópicos -->
 

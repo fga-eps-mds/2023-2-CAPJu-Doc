@@ -6,8 +6,6 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
   </h3>
 </div>
 
-
-
 <div>
 <h1 style="color: #011640; font-weight: bold; text-align: center"> Códigos fonte </h1>
 <div class="pictures">
@@ -39,7 +37,7 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
 <h1 style="color: #011640; font-weight: bold; text-align: center"> Equipe </h1>
 <h2 style="color: #011640; text-align: center"> MDS's </h2>
 <div class="pictures">
-<a class="pessoa" href="https://github.com/AmandaMoura">
+<a class="pessoa" href="https://github.com/AmandaMourx">
   <div class="photo-border">
     <img class="photo" src="assets/members/amanda_mds.jpeg" alt="Amanda">
   </div>
