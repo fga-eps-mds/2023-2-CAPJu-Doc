@@ -15,7 +15,7 @@
     - Introdução à metodologia lean inception.
     - Assistido ao vídeo gravado pelo PO em equipe.
     - Debate em relação as dúvidas da equipe ao lean inception.
-    - Mural passado disponibilizado pelo PO.
+    - Mural de 2023/01 disponibilizado pelo PO.
 - **Levantamentos**
     - Levantamento de documentos necessários.
     - Levanto do Sonar com os membros de EPS.
