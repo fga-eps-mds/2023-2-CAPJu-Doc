@@ -46,36 +46,47 @@ as tecnologias utilizadas para o desenvolvimento.
 ## 2.1 Tecnologias
 
 &emsp;&emsp;A aplicação utilizadas no desenvolvimento tanto quanto no frontend e no bakcend são as seguintes:
+
 * [Typescript](https://www.typescriptlang.org/)
-<br>
+
 &emsp;&emsp;TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.
+
 * [Jest](https://jestjs.io/)
 <br>
 &emsp;&emsp;Jest é um framework de teste de JavaScript para gerar testes de forma simples e eficaz.
+
 * [Vite](https://vitejs.dev/)
 <br>
 &emsp;&emsp;Vite é um build tool que permite que o desenvolvimento de aplicações frontend seja mais rápido e eficiente.
+
 * [React](https://pt-br.reactjs.org/)
 <br>
 &emsp;&emsp;React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+
 * [Styled Components](https://styled-components.com/)
 <br>
 &emsp;&emsp;Styled Components é uma biblioteca que permite escrever CSS em JavaScript.
+
 * [Node.js](https://nodejs.org/en/)
 <br>
 &emsp;&emsp;Node.js é um ambiente de execução Javascript server-side, utilzando V8.
+
 * [Express](https://expressjs.com/pt-br/)
 <br>
 &emsp;&emsp;Express é um framework para Node.js que fornece recursos mínimos para construção de servidores web.
+
 * [Sequelize](https://sequelize.org/)
 <br>
 &emsp;&emsp;Sequelize é um ORM (Object-Relational Mapping) baseado em promessas para Node.js.
+
 * [PostgreSQL](https://www.postgresql.org/)
 <br>
 &emsp;&emsp;PostgreSQL é um sistema gerenciador de banco de dados objeto relacional.
+
 * [Docker](https://www.docker.com/)
 <br>
 &emsp;&emsp;Docker é uma plataforma de software que permite a criação, o teste e a implantação de aplicativos rapidamente.
+
 * [Babel](https://babeljs.io/)
 <br>
 &emsp;&emsp;Babel é um compilador JavaScript gratuito e de código aberto e transpilador de JavaScript usado principalmente para converter o código ECMAScript 2015+ em uma versão compatível com versões anteriores do JavaScript em navegadores ou ambientes atuais e mais antigos.
@@ -108,7 +119,7 @@ as tecnologias utilizadas para o desenvolvimento.
 
 ## 5.1 Diagrama de Entidade e Relacionamento
 
-![Diagrama de Entidade e Relacionamento](../produto/assets/Diagrams/Diagram-entity-relation.png)
+![Diagrama de Entidade e Relacionamento](../assets/Diagrams/Diagram-entity-relation.png)
 
 <!-- Possíveis mais tópicos -->
 
