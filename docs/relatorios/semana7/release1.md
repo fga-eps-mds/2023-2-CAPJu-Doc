@@ -1,4 +1,4 @@
-# Entrega Release - 7⁰ Semana
+  # Entrega Release - 7⁰ Semana
 
 ## ****Reunião com o PO - 23/10****
 
@@ -72,4 +72,4 @@
 
 | Data | Versão | Descrição | Autor(es) | Revisores |
 | :----: | :----: | :----: | :----: | :----: |
-| 23/10/2023 | 1.0 | Criação do Documento | Felipe Motta | Amanda de Moura, Davi Rodrigues |
+| 23/10/2023 | 1.0 | Criação do Documento | Felipe Motta | Amanda de Moura, Denniel William |
