@@ -1,7 +1,5 @@
 # Reunião da 4⁰ Semana
-
-
-## **Reunião com o PO - 09/10**
+## **Reunião com o PO - 02/10**
 
 - **Objetivo da reunião:** Alinhamento das equipes de EPS e MDS com o Product Owner
 - **Participantes:** Hilmer, Wellington, membros de desenvolvimento do CAPJu

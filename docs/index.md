@@ -6,31 +6,64 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
   </h3>
 </div>
 
-
-
 <div>
 <h1 style="color: #011640; font-weight: bold; text-align: center"> Códigos fonte </h1>
 <div class="pictures">
-<a href="https://github.com/fga-eps-mds/2023-1-CAPJu-Front">
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Front">
   <div class="repo-border">
-	<img class="photoRepo" src="assets/repositories/secretary.svg" alt="Frontend">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Frontend">
   </div>
 	<h4 class="legenda">Frontend</h4>
 	<h6 class=legenda>Mobile</h6>
 </a>
-<a href="https://github.com/fga-eps-mds/">
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Config">
   <div class="repo-border">
-	<img class="photoRepo" src="assets/repositories/secretary.svg" alt="MicroService">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
   </div>
-	<h4 class="legenda">MicroService</h4>
-	<h6 class=legenda>Funny who you remember</h6>
+	<h4 class="legenda">Config</h4>
+	<h6 class=legenda>Banco de Dados e Nginx</h6>
 </a>
-<a href="https://github.com/fga-eps-mds/">
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Mailer-Service">
   <div class="repo-border">
-	<img class="photoRepo" src="assets/repositories/secretary.svg" alt="MicroService">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
   </div>
-	<h4 class="legenda">MicroService</h4>
-	<h6 class=legenda>Now i take to the skies</h6>
+	<h4 class="legenda">Mailer</h4>
+	<h6 class=legenda>Microserviço de emails</h6>
+</a>
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Note-Service">
+  <div class="repo-border">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
+  </div>
+	<h4 class="legenda">Note</h4>
+	<h6 class=legenda>Microserviço de anotações</h6>
+</a>
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-ProcessManagement-Service">
+  <div class="repo-border">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
+  </div>
+	<h4 class="legenda">Process Management</h4>
+	<h6 class=legenda>Microserviço dos processos</h6>
+</a>
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Role-Service">
+  <div class="repo-border">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
+  </div>
+	<h4 class="legenda">Role</h4>
+	<h6 class=legenda>Microserviço dos perfis </h6>
+</a>
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-Unit-Service">
+  <div class="repo-border">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
+  </div>
+	<h4 class="legenda">Unit</h4>
+	<h6 class=legenda>Microserviço das unidades </h6>
+</a>
+<a href="https://github.com/fga-eps-mds/2023-2-CAPJu-User-Service">
+  <div class="repo-border">
+	<img class="photoRepo" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="MicroService">
+  </div>
+	<h4 class="legenda">Users</h4>
+	<h6 class=legenda>Microserviço de usuários </h6>
 </a>
 </div>
 </div>
@@ -39,7 +72,7 @@ CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um p
 <h1 style="color: #011640; font-weight: bold; text-align: center"> Equipe </h1>
 <h2 style="color: #011640; text-align: center"> MDS's </h2>
 <div class="pictures">
-<a class="pessoa" href="https://github.com/AmandaMoura">
+<a class="pessoa" href="https://github.com/AmandaMourx">
   <div class="photo-border">
     <img class="photo" src="assets/members/amanda_mds.jpeg" alt="Amanda">
   </div>
