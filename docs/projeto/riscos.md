@@ -17,11 +17,11 @@ Ambiguidades na execução de um projeto surgem a partir de circunstâncias ince
 
 **Probabilidade** | **Intervalo** | **Peso**
 :---------------: | :-----------: | :------:
-**Muito Alta**    |   81 a 100    |    5
-**Alta**          |   61 a 80     |    4
-**Média**         |   41 a 60     |    3
-**Baixa**         |   21 a 40     |    2
-**Muito Baixa**   |   0 a 20      |    1
+**Muito Alta**    |   81% a 100%    |    5
+**Alta**          |   61% a 80%     |    4
+**Média**         |   41% a 60%     |    3
+**Baixa**         |   21% a 40%     |    2
+**Muito Baixa**   |   0% a 20%      |    1
 
 ### Impacto
 
@@ -48,6 +48,7 @@ Através da multiplicação entre as estimativas de impacto e probabilidade é p
 **Muito Alta**            |        5        |    10     |      15    |    20    |      25
 
 #### Valor de Prioridade
+
 **Prioridade** | **Intervalo** 
 :------------: | :-----------: 
 **Muito Alta** |     21 a 25    
@@ -164,29 +165,61 @@ No desfecho da etapa de desenvolvimento da aplicação, os riscos já foram devi
 
 Período   | Dificuldades da equipe com novas tecnologias inseridas | Problemas com a estação de trabalho | Alteração das tecnologias
 :--------:| :----------------------------------------------------: | :---------------------------------: | :------------------------:
-Sprint 0  | - | - | - 
-Sprint 1  | - | - | - 
+Semana 1     | 6 | 6 | 1 |
+Semana 2     | 6 | 6 | 1 |
+Semana 3     | 6 | 6 | 1 |
+Semana 4     | 6 | 6 | 1 |
+Semana 5     | 6 | 6 | 1 |
+Semana 6     | 6 | 6 | 1 |
+Semana 7     | 6 | 6 | 1 |
+Sprint 1     | 20 | 9 | 1 |
+Sprint 2     | 20 | 9 | 1 |
+Sprint 3     | 15 | 9 | 1 | 
 
 ### Externo
 
-Período   | Problemas pessoais ou de saúde 
-:--------:| :----------------------------------------------------------------: 
-Sprint 0  | - | - 
-Sprint 1  | - | - 
+Período   | Problemas pessoais ou de saúde |
+:--------:| :-----------------: |
+Semana 1     | 9 |
+Semana 2     | 9 |
+Semana 3     | 9 |
+Semana 4     | 9 |
+Semana 5     | 9 |
+Semana 6     | 9 |
+Semana 7     | 9 |
+Sprint 1     | 9 | 
+Sprint 2     | 9 |
+Sprint 3     | 9 |  
 
 ### Organizacional
 
-Período   | Conflito com outras disciplinas | Conflito de dependência entre atividades
-:--------:| :---------------------------------------: | :--------------------------------------:
-Sprint 0  | - | -                      
-Sprint 1  | - | -                                         
+Período   | Conflito com outras disciplinas | Conflito de dependência entre atividades |
+:--------:| :--------------------------: | :-------------------------: |
+Semana 1     | 9 | 12 | 
+Semana 2     | 9 | 12 | 
+Semana 3     | 9 | 12 | 
+Semana 4     | 9 | 12 | 
+Semana 5     | 9 | 12 | 
+Semana 6     | 9 | 12 | 
+Semana 7     | 9 | 12 |                
+Sprint 1     | 9 | 6 |
+Sprint 2     | 8 | 6 | 
+Sprint 3     | 4 | 5 |                                         
 
 ### Gerência
 
 Período | Divergência de horários entre membros da equipe | Falta de comprometimento dos membros com o projeto | Erros durante o planejamento das atividades | Falta de foco dos membros nas reuniões | Alteração do escopo | Ausência de membros durante reuniões do grupo | Desistência da disciplina | Falta de validação de artefatos com cliente         
 :-------: |:-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------:             
-Sprint 0  | - | - | - | - | - | - | - | -              
-Sprint 1  | - | - | - | - | - | - | - | -                                   
+Semana 1     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
+Semana 2     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
+Semana 3     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
+Semana 4     | 5 | 8 | 15 | 12 | 10 | 6 | 4 | 6 | 
+Semana 5     | 5 | 8 | 15 | 12 | 10 | 6 | 4 | 6 | 
+Semana 6     | 10 | 8 | 15 | 12 | 10 | 6 | 4 | 6 | 
+Semana 7     | 10 | 8 | 15 | 12 | 10 | 6 | 4 | 6 |                 
+Sprint 1     | 10 | 8 | 20 | 8 | 10 | 6 | 4 | 12 | 
+Sprint 2     | 12 | 8 | 20 | 8 | 10 | 6 | 4 | 12 | 
+Sprint 3     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |                                     
 
 ## Referências
 
@@ -197,3 +230,4 @@ Sprint 1  | - | - | - | - | - | - | - | -
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 26/09/2023 | 1.0 | Criação do documento | Brenda Santos, Washington Bispo | A definir |
+| 02/11/2023 | 1.1 | Atualizando tabelas de riscos até a sprint 3 | Brenda Santos, Washington Bispo | Leandro Almeida e Camila Careli |
