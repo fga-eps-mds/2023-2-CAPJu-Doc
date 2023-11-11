@@ -2,8 +2,8 @@
 
 ## 1. Visão Geral
 **Número da Sprint:** 2  <br/>
-**Data de Início:** 14/10/2023 <br/>
-**Data de Término:** 21/10/2023 <br/>
+**Data de Início:** 27/10/2023 <br/>
+**Data de Término:** 03/11/2023 <br/>
 **Duração:** 1 hora <br/>
 **Pontos Planejados:** <br/>
 
