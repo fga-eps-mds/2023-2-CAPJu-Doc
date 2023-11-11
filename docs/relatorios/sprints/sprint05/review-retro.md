@@ -73,7 +73,7 @@
 
 ## 3. Retrospectiva
 
-![](https://media.discordapp.net/attachments/1159255618104864809/1172963707253444709/image.png?ex=65623a94&is=654fc594&hm=69b5506cd26a615852a1b6920dcc60d9f3db5226ac9cba6c5b237df5d8946a5b&=&width=866&height=618)
+![Quadro5](https://media.discordapp.net/attachments/1159255618104864809/1172963707253444709/image.png?ex=65623a94&is=654fc594&hm=69b5506cd26a615852a1b6920dcc60d9f3db5226ac9cba6c5b237df5d8946a5b&=&width=866&height=618)
 
 ### Pontos Positivos:
 * Validações com o PO;
