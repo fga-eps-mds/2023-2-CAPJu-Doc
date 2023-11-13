@@ -32,43 +32,43 @@
 **Responsáveis:** Amanda e Denniel <br/>
 **Pontuação:** 08 <br/>
 
-1. **História:**  US04 - Visualizar o histórico de conclusão dos processos por Etapa <br/>
+2. **História:**  US04 - Visualizar o histórico de conclusão dos processos por Etapa <br/>
 **Responsáveis:** Washington e Felipe <br/>
 **Pontuação:**  05 <br/>
 
-1. **História:** US05 - Baixar Relatório em Formato CSV e PDF <br/>
+3. **História:** US05 - Baixar Relatório em Formato CSV e PDF <br/>
 **Responsáveis:** Brenda e Camila <br/>
 **Pontuação:** 13 <br/>
 
-1. **História:** US06 - Visualizar o histórico das atividades dos processos <br/>
+4. **História:** US06 - Visualizar o histórico das atividades dos processos <br/>
 **Responsáveis:** Nicolas e Bruno <br/>
 **Pontuação:**  13 <br/>
 
-1. **História:** US11 - Filtrar Processo Através de Etapa <br/>
+5. **História:** US11 - Filtrar Processo Através de Etapa <br/>
 **Responsáveis:** Amanda, Camila e Felipe <br/>
 **Pontuação:**  08 <br/>
 
-1. **História:** US12 - Filtrar Processo por Fluxo <br/>
+6. **História:** US12 - Filtrar Processo por Fluxo <br/>
 **Responsáveis:** Amanda, Camila e Felipe <br/>
 **Pontuação:** 08 <br/>
 
-1. **História:** US10 - Exclusão de fluxo <br/>
+7. **História:** US10 - Exclusão de fluxo <br/>
 **Responsáveis:** Davi e Bruno <br/>
 **Pontuação:** 05 <br/>
  
-1. **História:** US07 - Importação automática de processos em xlsx <br/>
+8. **História:** US07 - Importação automática de processos em xlsx <br/>
 **Responsáveis:** Nícolas <br/>
 **Pontuação:** 08 <br/>
 
-1. **História:** US08 - Importação automática de processos em CSV <br/>
+9. **História:** US08 - Importação automática de processos em CSV <br/>
 **Responsáveis:** Nicolas <br/>
 **Pontuação:**  13 <br/>
 
-1. **História:**  US04 - Visualizar o histórico de conclusão dos processos por Etapa <br/>
+10. **História:**  US04 - Visualizar o histórico de conclusão dos processos por Etapa <br/>
 **Responsáveis:** Washington e Felipe <br/>
 **Pontuação:**  08 <br/>
 
-1. **História:** US09 - Atualização e visualização de status do processo <br/>
+11. **História:** US09 - Atualização e visualização de status do processo <br/>
 **Responsáveis:** Daniel e Leandro <br/>
 **Pontuação:** 2 <br/>
 
