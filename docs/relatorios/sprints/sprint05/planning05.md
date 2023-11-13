@@ -2,18 +2,13 @@
 
 ## 1. Visão Geral
 
-**Número da Sprint:** 5 <br/>
+**Número da Sprint:** 6 <br/>
 **Data de Início:** 11/11/2023 <br/>
 **Data de Término:** 18/11/2023 <br/>
 **Duração:** 1 hora <br/>
 **Membros Ausentes:** Amanda, Brenda, Bruno, Daniel, Davi e Nícolas. <br/>
 
 ## 2. Objetivos
-Tarefa nao entregue: us4 e 06 anmmanjsb jnsm
-07 e 08 nicolas
-11 e 12 amanda, motta, camila - sup jonga 
-02 ajuste camila, leo - sup jonga
-
   * Documento do quadro de conhecimentos (DOC);
   * Documento do cronograma dos dojos;
   * Atualização da documentação de custos;
