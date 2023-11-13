@@ -21,8 +21,8 @@
 - A equipe alinhou com o cliente uma melhor forma de apresentar as US prontas:
     - Terça será enviado os critérios de aceitaçao para o cliente validar;
     - Sábado será a data para validadação com o Deploy;
-- Cliente se disponibilizou a enviar um link pelo discord durante os momentos que ele for realizar as validações
-- A equipe apresentou algumas dúvidas com o cliente
+- Cliente se disponibilizou a enviar um link pelo discord durante os momentos que ele for realizar as validações;
+- A equipe apresentou algumas dúvidas com o cliente;
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisores |
