@@ -63,12 +63,8 @@
 9. **História:** US08 - Importação automática de processos em CSV <br/>
 **Responsáveis:** Nicolas <br/>
 **Pontuação:**  13 <br/>
-
-10. **História:**  US04 - Visualizar o histórico de conclusão dos processos por Etapa <br/>
-**Responsáveis:** Washington e Felipe <br/>
-**Pontuação:**  08 <br/>
-
-11. **História:** US09 - Atualização e visualização de status do processo <br/>
+
+10. **História:** US09 - Atualização e visualização de status do processo <br/>
 **Responsáveis:** Daniel e Leandro <br/>
 **Pontuação:** 2 <br/>
 
