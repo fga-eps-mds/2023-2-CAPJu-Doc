@@ -56,6 +56,8 @@ nav:
         - Alinhamento PO: relatorios/sprints/sprint02/pauta_po_sprint02.md 
         - Planning: relatorios/sprints/sprint02/planning.md
         - Review: relatorios/sprints/sprint02/review.md
+      - Sprint 03:
+        - Planning: relatorios/sprints/sprint03/planning.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
