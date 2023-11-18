@@ -26,32 +26,32 @@
 
 1. **História:** US07 <br/>
 **Responsáveis:** Nícolas <br/>
-**Pontuação:** x <br/>
-**Status:** Não entregue. <br/>
+**Pontuação:** 13 <br/>
+**Status:** Não entregue. Membro implementou várias funcionalidades em uma única branch<br/>
 
 2. **História:** US08 <br/>
 **Responsáveis:** Nícolas <br/>
-**Pontuação:** x <br/>
-**Status:** Não entregue. <br/>
+**Pontuação:** 13 <br/>
+**Status:** Não entregue.  Membro implementou várias funcionalidades em uma única branch<br/>
 
 3. **História:** US09 <br/>
-**Responsáveis:** Leandro e Daniel <br/>
+**Responsáveis:** (MDS) Leandro e Daniel, (Supervisora) Brenda Santos<br/>
 **Pontuação:** 02 <br/>
 **Status:** Entregue. <br/>
 
 4. **História:** US010 <br/>
-**Responsáveis:** Davi e Bruno <br/>
+**Responsáveis:** (MDS) Davi e Bruno, (Supervisor) Washigton Bispo <br/>
 **Pontuação:**  05 <br/>
 **Status:** Entregue <br/> 
 
 5. **História:**  US11 e US12 <br/>
-**Responsáveis:** Amanda, Camila e Felipe Motta <br/>
+**Responsáveis:** (MDS) Amanda, Camila e Felipe Motta, (Supervisor) João Gabriel <br/>
 **Pontuação:**  08 <br/>
 **Status:** A finalizar, precisa terminar as configurações do back e testes <br/>
 
 ## 3. Retrospectiva
 
-![](<Captura de tela 2023-11-04 144256.png>)
+![Review Board](<Captura de tela 2023-11-04 144256.png>)
 
 ### Pontos Positivos:
 * Mais autonomia dos membros de MDS no projeto
