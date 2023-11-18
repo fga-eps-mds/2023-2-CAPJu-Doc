@@ -32,4 +32,4 @@
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisores |
 | ---- | ---- | ---- | ---- | ---- |
-| 018/11/2023 | 1.0 | Criação do Documento | Felipe de Oliveira Motta | Washington Bispo e Brenda Vitória |
+| 18/11/2023 | 1.0 | Criação do Documento | Felipe de Oliveira Motta | Washington Bispo e Brenda Vitória |
