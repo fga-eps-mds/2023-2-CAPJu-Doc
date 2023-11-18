@@ -35,11 +35,11 @@
 
 3. **História:** US07 - Importação automática de processos em xlsx <br/>
 **Responsáveis:** Nicolas <br/>
-**Pontuação:** xx <br/>
+**Pontuação:** 13 <br/>
 
 4. **História:** US08 - Importação automática de processos em CSV <br/>
 **Responsáveis:** Nicolas <br/>
-**Pontuação:** xx <br/>
+**Pontuação:** 13 <br/>
 
 6. **História:** US11 - Filtrar Processo Através de Etapa <br/>
 **Responsáveis:** Amanda, Camila, Felipe e João <br/>
@@ -56,3 +56,9 @@
 7. **História:** US17 - Fluxo de Exibição de Telas <br/>
 **Responsáveis:** Léo, Daniel e Brenda <br/>
 **Pontuação:** 8 <br/>
+
+## Histórico de versão
+| Data | Versão | Descrição | Autor(es) | Revisores |
+| ---- | ---- | ---- | ---- | ---- |
+| 04/10/2023 | 1.0 | Criação do Documento | Leandro Almeida Rocha Santos | Washington Bispo e Camila Careli |
+| 18/11/2023 | 1.1 | Adicionando pontuação das US's 07 e 08 | Leandro Almeida Rocha Santos | Washington Brito e Camila Careli |
