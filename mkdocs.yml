@@ -56,6 +56,8 @@ nav:
         - Alinhamento PO: relatorios/sprints/sprint02/pauta_po_sprint02.md 
         - Planning: relatorios/sprints/sprint02/planning.md
         - Review: relatorios/sprints/sprint02/review.md
+      - Sprint 03:
+        - Planning: relatorios/sprints/sprint03/planning.md
       - Sprint 05:
         - Planning: relatorios/sprints/sprint05/planning05.md
         - Review: relatorios/sprints/sprint05/review-retro.md

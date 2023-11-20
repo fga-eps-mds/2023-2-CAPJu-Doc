@@ -175,6 +175,8 @@ Semana 7     | 6 | 6 | 1 |
 Sprint 1     | 20 | 9 | 1 |
 Sprint 2     | 20 | 9 | 1 |
 Sprint 3     | 15 | 9 | 1 | 
+Sprint 4     | 12 | 9 | 1 | 
+Sprint 5     | 12 | 9 | 1 | 
 
 ### Externo
 
@@ -190,6 +192,8 @@ Semana 7     | 9 |
 Sprint 1     | 9 | 
 Sprint 2     | 9 |
 Sprint 3     | 9 |  
+Sprint 4     | 9 |  
+Sprint 5     | 9 |  
 
 ### Organizacional
 
@@ -205,6 +209,8 @@ Semana 7     | 9 | 12 |
 Sprint 1     | 9 | 6 |
 Sprint 2     | 8 | 6 | 
 Sprint 3     | 4 | 5 |                                         
+Sprint 4     | 4 | 5 |                                         
+Sprint 5     | 8 | 5 |                                         
 
 ### Gerência
 
@@ -220,6 +226,8 @@ Semana 7     | 10 | 8 | 15 | 12 | 10 | 6 | 4 | 6 |
 Sprint 1     | 10 | 8 | 20 | 8 | 10 | 6 | 4 | 12 | 
 Sprint 2     | 12 | 8 | 20 | 8 | 10 | 6 | 4 | 12 | 
 Sprint 3     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |                                     
+Sprint 4     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |                                     
+Sprint 5     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 4 |                                     
 
 ## Referências
 
@@ -231,3 +239,4 @@ Sprint 3     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 26/09/2023 | 1.0 | Criação do documento | Brenda Santos, Washington Bispo | A definir |
 | 02/11/2023 | 1.1 | Atualizando tabelas de riscos até a sprint 3 | Brenda Santos, Washington Bispo | Leandro Almeida e Camila Careli |
+| 13/11/2023 | 1.2 | Atualizando tabelas de riscos até a sprint 4 e 5 | Denniel William | Brenda Santos, Washington Bispo |
