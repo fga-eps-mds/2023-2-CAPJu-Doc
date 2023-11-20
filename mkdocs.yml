@@ -58,6 +58,9 @@ nav:
         - Review: relatorios/sprints/sprint02/review.md
       - Sprint 03:
         - Planning: relatorios/sprints/sprint03/planning.md
+      - Sprint 05:
+        - Planning: relatorios/sprints/sprint05/planning05.md
+        - Review: relatorios/sprints/sprint05/review-retro.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
