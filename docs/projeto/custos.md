@@ -15,13 +15,13 @@ Considerando que o curso de Engenharia de Software da Universidade de Brasília 
 
 - Custo semanal do crédito: **R$ 67,00** (valor semanal de um aluno, dividido por 23,2 créditos).
 
-Para o custo de um aluno da disciplina de Métodos de Desenvolvimento de Software (MDS) ou Engenharia de Produto de Software (EPS), serão considerados os 4 créditos da disciplina (4 horas de aula por semana), além de 6 créditos (6 horas de atividades por semana) adicionais de atividades fora do horário de aula. Resultando em tempo equivalente a cursar 10 créditos, obtendo o custo abaixo:
+Para o custo de um aluno da disciplina de Métodos de Desenvolvimento de Software (MDS) ou Engenharia de Produto de Software (EPS), serão considerados os 4 créditos da disciplina (4 horas de aula por semana). Resultando em tempo equivalente a cursar 40 créditos, obtendo o custo abaixo:
 
-- Custo semanal (1 membros): **R$ 670,00** (custo semanal equivalente à 10 créditos).
+- Custo semanal (1 membros): **R$ 268,00** (custo semanal equivalente à 4 créditos).
 
 Considerando que o time é composto por 12 membros, se obtem o custo semanal do time:
 
-- Custo semanal (12 membros): **R$ 8040,00**
+- Custo semanal (12 membros): **R$ 3216,00**
 
 ### Internet
 
@@ -53,16 +53,16 @@ Com o custo energetico em Brasília sendo R$ 0,69871 por KWh:
 
 | Tipo de custo |      1 membro |     12 membros |
 | :-----------: | ------------: | -------------: |
-|    Pessoas    |     R$ 670,00 |     R$ 8040,00 |
+|    Pessoas    |     R$ 268,00 |     R$ 3216,00 |
 |   Internet    |      R$ 24,99 |      R$ 299,88 |
 |    Energia    |       R$ 1,26 |       R$ 15,10 |
-|   **Total**   | **R$ 696,25** | **R$ 8354,00** |
+|   **Total**   | **R$ 294,24** | **R$ 3530,88** |
 
 ### Custo total
 
-Considerando o custo semanal de **R$ 8354,00**, duração de 19 semanas para o projeto, e o custo de **R$ 3.698,00** por membro da equipe, para equipamentos (que não é recorrente e ocorrerá apenas na primeira semana).
+Considerando o custo semanal de **R$ 3530,88**, duração de 12 semanas para o projeto, e o custo de **R$ 3.698,00** por membro da equipe, para equipamentos (que não é recorrente e ocorrerá apenas na primeira semana).
 
-- Custos totais do projeto: **R$ 158.726,00** ((**R$ 8354,00** por semana **X** 19 semanas)+(**R$ 3.698,00** por membro **X** 12 membros )).
+- Custos totais do projeto: **R$ 111.462,72** ((**R$ 3530,88** por semana **X** 19 semanas)+(**R$ 3.698,00** por membro **X** 12 membros )).
 
 ## Referências
 

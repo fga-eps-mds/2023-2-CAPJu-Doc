@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>c0fe02b6-995e-4bcb-8273-1c99fcff7183.SCHEMA:capju.public</OriginalElement>
+  <nodes>
+    <node x="1041.5" y="-94.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.priority</node>
+    <node x="135.4999999999999" y="-149.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.users</node>
+    <node x="134.9999999999999" y="165.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processAud</node>
+    <node x="786.4999999999999" y="-116.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.stage</node>
+    <node x="318.77083333333337" y="479.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFileItem</node>
+    <node x="-126.0" y="154.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFile</node>
+    <node x="-126.0" y="987.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.SequelizeMeta</node>
+    <node x="154.0" y="755.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.role</node>
+    <node x="714.0" y="755.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.documentAud</node>
+    <node x="901.0" y="132.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process</node>
+    <node x="463.65494791666674" y="-105.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flow</node>
+    <node x="390.9999999999999" y="220.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowUser</node>
+    <node x="925.0" y="755.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.unit</node>
+    <node x="434.0" y="755.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flowUser</node>
+    <node x="645.9999999999999" y="220.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowStage</node>
+    <node x="-126.0" y="755.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flowStage</node>
+    <node x="909.0" y="501.0">c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.note</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowUser" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.users" relationship="REFERENCES">
+      <point x="-58.75" y="-60.5" />
+      <point x="449.7499999999999" y="112.0" />
+      <point x="331.3333333333332" y="112.0" />
+      <point x="78.33333333333331" y="115.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processAud" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.users" relationship="REFERENCES">
+      <point x="0.0" y="-115.5" />
+      <point x="-1.4210854715202004E-14" y="115.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowUser" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flow" relationship="REFERENCES">
+      <point x="58.75" y="-60.5" />
+      <point x="567.2499999999999" y="112.0" />
+      <point x="522.4049479166667" y="112.0" />
+      <point x="-58.75" y="71.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowStage" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flow" relationship="REFERENCES">
+      <point x="-58.75" y="-60.5" />
+      <point x="704.7499999999999" y="112.0" />
+      <point x="726.4388020833334" y="112.0" />
+      <point x="726.4388020833334" y="102.0" />
+      <point x="639.9049479166667" y="102.0" />
+      <point x="58.75" y="71.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.flow" relationship="REFERENCES">
+      <point x="-83.66666666666669" y="-148.5" />
+      <point x="942.8333333333333" y="112.0" />
+      <point x="726.4388020833334" y="112.0" />
+      <point x="726.4388020833334" y="102.0" />
+      <point x="639.9049479166667" y="102.0" />
+      <point x="58.75" y="71.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.stage" relationship="REFERENCES">
+      <point x="-1.4210854715202004E-14" y="-148.5" />
+      <point x="1026.5" y="102.0" />
+      <point x="904.0" y="102.0" />
+      <point x="0.0" y="82.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.idFlowStage" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.stage" relationship="REFERENCES">
+      <point x="58.75" y="-60.5" />
+      <point x="822.2499999999999" y="102.0" />
+      <point x="904.0" y="102.0" />
+      <point x="0.0" y="82.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFileItem" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFile" relationship="REFERENCES">
+      <point x="-46.25" y="-115.5" />
+      <point x="365.02083333333337" y="454.0" />
+      <point x="-5.5" y="454.0" />
+      <point x="0.0" y="126.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.note" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process" relationship="REFERENCES">
+      <point x="0.0" y="-93.5" />
+      <point x="0.0" y="148.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFileItem" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process" relationship="REFERENCES">
+      <point x="46.25" y="-115.5" />
+      <point x="457.52083333333337" y="454.0" />
+      <point x="1026.5" y="454.0" />
+      <point x="0.0" y="148.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.processesFile" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.users" relationship="REFERENCES">
+      <point x="0.0" y="-126.5" />
+      <point x="-5.5" y="112.0" />
+      <point x="174.66666666666657" y="112.0" />
+      <point x="-78.33333333333333" y="115.5" />
+    </edge>
+    <edge source="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.process" target="c0fe02b6-995e-4bcb-8273-1c99fcff7183.TABLE:capju.public.priority" relationship="REFERENCES">
+      <point x="83.66666666666667" y="-148.5" />
+      <point x="1110.1666666666665" y="112.0" />
+      <point x="1159.0" y="112.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.4834710743801653" showDependencies="false" x="575.5" y="446.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
