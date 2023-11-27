@@ -36,6 +36,8 @@ nav:
         - Semana 01 - Primeiro contato: relatorios/semana1/Primeiro_contato.md
         - Semana 01 - Kick-off: relatorios/semana1/Kick-off.md
         - Semana 01 - Reunião de interação: relatorios/semana1/Reuniao_de_interacao.md
+      - Semana 02:
+        - Semana 02 - Reunião Lean Inception Pt.2: relatorios/semana2/semana2.md
       - Semana 03: 
         - Semana 03 - Reunião Lean Inception Pt.2: relatorios/semana3/Reuniao_do_Lean_Inception_pt02.md
         - Semana 03 - Reunião Lean Inception Pt.3: relatorios/semana3/Reuniao_Lean_Inception_pt03.md
@@ -49,6 +51,9 @@ nav:
         - Semana 06: relatorios/semana6/semana6.md
       - Semana 07: 
         - Semana 07: relatorios/semana7/semana7.md
+        - Semana 07 - Release 1: relatorios/semana7/release1.md
+      - Semana 08:
+        - Semana 08: relatorios/semana8/semana8.md
       - Sprint 01: 
         - Planning: relatorios/sprints/sprint01/planning.md
         - Review: relatorios/sprints/sprint01/review.md
@@ -58,9 +63,16 @@ nav:
         - Review: relatorios/sprints/sprint02/review.md
       - Sprint 03:
         - Planning: relatorios/sprints/sprint03/planning.md
+        - Review: relatorios/sprints/sprint03/review.md
+      - Sprint 04:
+        - Planning: relatorios/sprints/sprint04/planning.md
+        - Review: relatorios/sprints/sprint04/review.md
       - Sprint 05:
         - Planning: relatorios/sprints/sprint05/planning05.md
         - Review: relatorios/sprints/sprint05/review-retro.md
+      - Sprint 06:
+        - Planning: relatorios/sprints/sprint06/planning.md
+        - Review: relatorios/sprints/sprint06/review.md
   - Projeto:
     - Documento de arquitetura: projeto/arquitetura.md 
     - Documento de custos: projeto/custos.md
