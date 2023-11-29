@@ -17,8 +17,8 @@
 ## 3. Histórias e Pareamento
 
 1. **História:**  US01 - Visualizar quantidade de processos em cada etapa de um fluxo <br/>
-**Responsáveis:** Denniel e Amanda <br/>
-**Supervisor:** João Gabriel <br/>
+**Responsáveis:** Amanda <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:**  08 <br/>
 **Status:** Entregue, mas sem Homologação. <br/>
 
@@ -29,8 +29,8 @@
 **Status:** Entregue, mas sem Homologação. <br/>
 
 3. **História:**  US04 - Visualizar o tempo de conclusão dos processos por Etapa <br/>
-**Responsáveis:** Washington e Felipe <br/>
-**Supervisor:** XX <br/>
+**Responsáveis:** Felipe <br/>
+**Supervisor:** Washington <br/>
 **Pontuação:**  05 <br/>
 **Status:** Entregue, mas sem Homologação. <br/>
 
@@ -66,13 +66,13 @@
 
 9. **História:** US10 - Exclusão de Fluxo <br/>
 **Responsáveis:** Davi e Bruno <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Washington <br/>
 **Pontuação:** 05 <br/>
 **Status:** Entregue. <br/>
 
 10. **História:** US11 e US12 - Visualizar Relatório de Processos pela Data de Vencimento de uma Etapa <br/>
-**Responsáveis:** Amanda e Denniel <br/>
-**Supervisor:** João Gabriel <br/>
+**Responsáveis:** Amanda <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:** 08 <br/>
 **Status:** Em andamento. <br/>
 
