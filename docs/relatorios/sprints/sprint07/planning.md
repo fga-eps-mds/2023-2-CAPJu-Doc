@@ -60,7 +60,7 @@
 
 8. **História:** US09 - Atualização e visualização de status do processo <br/>
 **Responsáveis:** Daniel e Leandro <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Inexistente <br/>
 **Pontuação:** 02 <br/>
 **Status:** Entregue. <br/>
 
@@ -123,3 +123,4 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 22/11/2023 | 1.0 | Criação do Documento | Amanda De Moura | Bruno Ricardo de Menezes
 | 23/11/2023 | 1.1 | Complementando documento | Bruno Ricardo de Menezes | Amanda De Moura 
+| 30/11/2023 | 1.2 | Fazendo alterações | Bruno Ricardo de Menezes |
