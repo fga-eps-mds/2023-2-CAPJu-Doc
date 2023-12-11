@@ -70,6 +70,10 @@ nav:
           - Sprint 6:
               - Planning: relatorios/sprints/sprint06/planning.md
               - Review: relatorios/sprints/sprint06/review.md
+  - Encerramento do Projeto:
+              - Planejado vs Executado: encerramento-projeto/planejadovsexecutado.md
+              - Próximos Passos: encerramento-projeto/proximos-passos.md
+
 
   - Projeto:
       - Documento de arquitetura: projeto/arquitetura.md
