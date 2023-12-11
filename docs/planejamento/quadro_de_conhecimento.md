@@ -19,4 +19,4 @@ Além disso, o quadro de conhecimentos serve como um instrumento para monitorar 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ---- | ---- | ---- | ---- | ---- |
-| 22/10/2023 | 1.0 | Criação do Documento | Washington Bispo | Felipe Motta e Brenda Santos |
+| 22/10/2023 | 1.0 | Criação do Documento | Washington Bispo | Felipe Motta e Brenda Santo |
