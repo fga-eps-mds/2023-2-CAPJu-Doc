@@ -30,7 +30,7 @@
 
 3. **História:**  US04 - Visualizar o tempo de conclusão dos processos por Etapa <br/>
 **Responsáveis:** Washington e Felipe <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Washington <br/>
 **Pontuação:**  05 <br/>
 **Status:** Fechada pelo PO <br/>
 s
@@ -42,31 +42,31 @@ s
 
 5. **História:** US06 - Visualizar o histórico das atividades dos processos <br/>
 **Responsáveis:** Denniel <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:**  13 <br/>
 **Status:** Arrumar bug de ir e voltar o processo <br/>
 
 6. **História:** US07 - Importação automática de processos em xlsx <br/>
 **Responsáveis:** Brenda <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:** 13 <br/>
 **Status:** Revisar comentários do PO e  ajustar <br/>
 
 7. **História:** US08 - Importação automática de processos em CSV <br/>
 **Responsáveis:** Brenda <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:** 13 <br/>
 **Status:** Revisar comentários do PO e  ajustar <br/>
 
 8. **História:** US09 - Atualização e visualização de status do processo <br/>
 **Responsáveis:** Brenda <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel <br/>
 **Pontuação:** 02 <br/>
 **Status:** Revisar comentários do PO e  ajustar <br/>
 
 9. **História:** US10 - Exclusão de Fluxo <br/>
 **Responsáveis:** Washigton <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Brenda <br/>
 **Pontuação:** 05 <br/>
 **Status:** Arrumar bug na exclusão <br/>
 
@@ -90,7 +90,7 @@ s
 
 13. **História:** US18 e US19 - Criptografar autenticação e Autenticar rotas <br/>
 **Responsáveis:** Nicolas <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel e Washington <br/>
 **Pontuação:** 08 <br/>
 **Status:** Arrumar bug na exclusão <br/>
 
@@ -103,14 +103,7 @@ s
 
 15. **História:** US20 - Deslogar depois de determinado tempo de inatividade <br/>
 **Responsáveis:** Daniel e Camila <br/>
-**Supervisor:** XX <br/>
-**Pontuação:** 02 <br/>
-**Status:** Começar a implementação
-<br/>
-
-16. **História:** US20 - Deslogar depois de determinado tempo de inatividade <br/>
-**Responsáveis:** Daniel e Camila <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Jonga <br/>
 **Pontuação:** 02 <br/>
 **Status:** Começar a implementação
 <br/>
