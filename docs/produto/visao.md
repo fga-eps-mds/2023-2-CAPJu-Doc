@@ -16,26 +16,16 @@ No kick-off é realizada uma a apresentação dos participantes e a explicação
 
 ### Visão do Produto
 
-A etapa de visão do produto é o ponto de partida para entender o produto e seu valor para o negócio. É realizada a identificação de elementos-chave, como o problema a ser resolvido, a categoria do produto, os usuários e quais os possíveis benefícios/diferenciais. Foram originadas as seguintes características:
-
-![visao](../assets/image.png)
+A etapa de visão do produto é o ponto de partida para entender o produto e seu valor para o negócio. É realizada a identificação de elementos-chave, como o problema a ser resolvido, a categoria do produto, os usuários e quais os possíveis benefícios/diferenciais.
 
 ### O Produto É - Não é - Faz - Não Faz
 
 A dinâmica visa auxiliar na identificação de aspectos positivos e negativos do produto em quatro quadrantes: o que é, o que não é, o que faz e o que não faz.
-Dessa forma, é possível esclarecer a categoria do produto e suas limitações. Assim, o produto **é** e **faz**:
-
-![faz](../assets/image-1.png)
-
-**Não é** e **não faz**:
-
-![nao-faz](../assets/image-2.png)
+Dessa forma, é possível esclarecer a categoria do produto e suas limitações.
 
 ### Objetivos do Produto
 
-Na etapa de objetivos do produto são coletadas e discutidas ideias de todos os participantes, visando esclarecer e delimitar os objetivos do produto. Foram listados os seguintes objetivos:
-
-![objetivos](../assets/image-3.png)
+Na etapa de objetivos do produto são coletadas e discutidas ideias de todos os participantes, visando esclarecer e delimitar os objetivos do produto.
 
 ## Parte 2
 
@@ -43,49 +33,29 @@ Na etapa de objetivos do produto são coletadas e discutidas ideias de todos os 
 
 Para definir personas relacionadas ao projeto, são formados grupos e é solicitado que descrevam características de "personagens" que representem os possíveis usuários do produto. Assim, é possível entender melhor as necessidades dos usuários e como cada perfil interage com o produto.
 
-Personas 1 e 2:
-
-![personas12](../assets/image-4.png)
-
-Personas 3 e 4:
-
-![personas34](../assets/image-5.png)
-
 ### Jornada do Usuário
 
-Através da dinâmica são mapeados sequencialmente as jornadas dos usuários, destacando pontos de contato e interações com o produto. O principal intuito da atividade é alegar os diferentes pontos de contato e a interação dos envolvidos com o produto. No total, foram originadas 5 jornadas de usuário, a título de exemplo, segue as jornadas 1 e 2:
-
-![jornada1](../assets/image-6.png)
-
-![jornada2](../assets/image-7.png)
+Através da dinâmica são mapeados sequencialmente as jornadas dos usuários, destacando pontos de contato e interações com o produto. O principal intuito da atividade é alegar os diferentes pontos de contato e a interação dos envolvidos com o produto.
 
 ## Parte 3
 
 ### Brainstorming de Funcionalidades
 
-Acontece para facilitar a identificação das funcionalidades com base nas necessidades dos usuários e nos objetivos de negócio, ocorrendo através de conversas abertas e consenso dos envolvidos sobre quais são as funcionalidades do sistema. O resultado, categorizado em 7 épicos, foi:
-
-![brainstorming](../assets/image-8.png)
+Acontece para facilitar a identificação das funcionalidades com base nas necessidades dos usuários e nos objetivos de negócio, ocorrendo através de conversas abertas e consenso dos envolvidos sobre quais são as funcionalidades do sistema.
 
 ### Revisão técnica, de negócio e de experiência do usuário (UX)
 
-Consiste na avaliação da complexidade técnica de cada funcionalidade, no impacto nos negócios e na experiência do usuário. Através dessa etapa, é possível discutir como cada funcionalidade poderá ser desenvolvida e como todas podem ser priorizadas, ajudando nas estimativas e planejamento. Como exemplo do que foi gerado, segue o exemplo dos três primeiros épicos e suas atividades:
-
-![revisao](../assets/image-11.png)
+Consiste na avaliação da complexidade técnica de cada funcionalidade, no impacto nos negócios e na experiência do usuário. Através dessa etapa, é possível discutir como cada funcionalidade poderá ser desenvolvida e como todas podem ser priorizadas, ajudando nas estimativas e planejamento.
 
 ## Parte 4
 
 ### Sequenciador
 
-O sequenciador acontece através do estabelecimento de uma sequência de funcionalidades para o desenvolvimento, definindo o que vai para o MVP e o que será desenvolvido posteriormente (considerado como incremento). Permite que todos criem uma visão de como a organização e desenvolvimento serão realizados, além de facilitar a validação das ideias. O resultado foi:
-
-![sequenciador](../assets/image-9.png)
+O sequenciador acontece através do estabelecimento de uma sequência de funcionalidades para o desenvolvimento, definindo o que vai para o MVP e o que será desenvolvido posteriormente (considerado como incremento). Permite que todos criem uma visão de como a organização e desenvolvimento serão realizados, além de facilitar a validação das ideias.
 
 ### Canvas MVP
 
 No MVP é realizado um resumo das discussões e definições anteriores em um quadro que apresenta o MVP, incluindo proposta, personas, jornadas, funcionalidades, resultados esperados, métricas, custos e cronograma. O processo, como um todo, servirá para orientar as estratégias de desenvolvimento.
-
-![canvas](../assets/image-10.png)
 
 ## Parte 5
 
@@ -106,4 +76,3 @@ Paulo, Caroli. Lean Inception, 2003. Disponível em: <a href="https://caroli.org
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 24/09/2023 | 1.0 | Criação do documento | Brenda Santos | A definir |
-| 27/11/2023 | 2.0 | Adição do que foi gerado em cada etapa | Brenda Santos | A definir |
