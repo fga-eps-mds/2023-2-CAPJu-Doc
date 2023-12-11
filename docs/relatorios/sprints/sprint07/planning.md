@@ -30,13 +30,13 @@
 
 3. **História:**  US04 - Visualizar o tempo de conclusão dos processos por Etapa <br/>
 **Responsáveis:** Washington e Felipe <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Washington <br/>
 **Pontuação:**  05 <br/>
 **Status:** Entregue, mas sem Homologação. <br/>
 
 4. **História:** US05 - Baixar Relatório em Formato CSV e PDF <br/>
 **Responsáveis:** Todos <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel e Washigton <br/>
 **Pontuação:** 13 <br/>
 **Status:** Em andamento. <br/>
 
@@ -48,25 +48,25 @@
 
 6. **História:** US07 - Importação automática de processos em xlsx <br/>
 **Responsáveis:** Nicolas <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel e Washigton <br/>
 **Pontuação:** 13 <br/>
 **Status:** Entregue, mas sem Homologação. <br/>
 
 7. **História:** US08 - Importação automática de processos em CSV <br/>
 **Responsáveis:** Nicolas <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Denniel e Washigton <br/>
 **Pontuação:** 13 <br/>
 **Status:** Entregue, mas sem Homologação. <br/>
 
 8. **História:** US09 - Atualização e visualização de status do processo <br/>
 **Responsáveis:** Daniel e Leandro <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Joao Gabriel <br/>
 **Pontuação:** 02 <br/>
 **Status:** Entregue. <br/>
 
 9. **História:** US10 - Exclusão de Fluxo <br/>
 **Responsáveis:** Davi e Bruno <br/>
-**Supervisor:** XX <br/>
+**Supervisor:** Washigton <br/>
 **Pontuação:** 05 <br/>
 **Status:** Entregue. <br/>
 
