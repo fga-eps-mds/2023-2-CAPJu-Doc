@@ -18,6 +18,7 @@ dev_addr: "0.0.0.0:8000"
 
 nav:
   - Sobre: index.md
+  - Manual de instalação: manual_de_instalacao.md
   - Manual do desenvolvedor: manual_do_desenvolvedor.md
   - Planejamento:
       - Planejamento: planejamento/planejamento.md
