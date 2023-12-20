@@ -15,15 +15,17 @@
 | 14/10/2023 | Sprint 02 |
 | 21/10/2023 | Sprint 03 |
 | 23/10/2023 | Entrega de release 1 ao cliente |
-| 23/10/2023 | Finalizando release 1 |
+| 27/10/2023 | Finalizando release 1 |
 | 28/10/2023 | Sprint 04 |
 | 04/11/2023 | Sprint 05 |
 | 11/11/2023 | Sprint 06 |
 | 18/11/2023 | Sprint 07 |
 | 25/11/2023 | Sprint 08 |
+| 02/12/2023 | Entrega de release 1.1 ao cliente |
 | 02/12/2023 | Sprint 09 |
+| 08/12/2023 | Entrega de release 1.2 ao cliente |
 | 09/12/2023 | Sprint 10 |
-| 15/12/2023 | Entrega de release ao cliente |
+| 11/12/2023 | Entrega de release 2 ao cliente |
 | 16/12/2023 | Sprint 11 |
 | 21/12/2023 | Fim do buffer de contigência |
 
@@ -33,3 +35,4 @@
 | ---- | ------ | --------- | --------- |
 | 07/10/2023 | 0.1 | Criação do documento | Denniel William |
 | 07/10/2023 | 1.0 | Adição das datas e sprints | Denniel William |
+| 20/12/2023 | 1.1 | Atualização | Brenda Santos |
