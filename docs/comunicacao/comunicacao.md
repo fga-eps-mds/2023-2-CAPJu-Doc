@@ -23,6 +23,8 @@ Por fim, os horários de reuniões definidos e os participantes esperados são:
 | Planning | Sábado, 15:00-16:00 | Todos os membros de EPS e MDS |
 | Daily | Terça-feira e quinta-feira, 15:50-16:10 | Todos os membros de EPS e MDS |
 
+Obs: Chegando ao final do projeto, se tornou necessário em alguns momentos fazer mais reuniões do que o padrão para validar funcionalidades e critérios de aceitação. Para isso, o PO se disponibilizou em horários variados durante a semana, e as vezes aos finais de semana, para atender as demandas do time, que através disso conseguiu disponibilizar as histórias conforme esperado e de forma mais rápida.
+
 ## Ferramentas de comunicação e armazenamento de informações
 
 * <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" height="20px" width="20px"> Telegram: Principal ferramenta de comunicação entre os membros da equipe para quaisquer dúvidas, discussões e informações.
@@ -39,7 +41,7 @@ Por fim, os horários de reuniões definidos e os participantes esperados são:
 
 | Data | Versão | Descrição | Autor(es) | Revisores |
 | ---- | ------ | --------- | --------- | --------- |
-| 01/10/2023 | 1.0 | Criação do documento | Davi Rodrigues | Jonga Matos e Daniel Rodrigues
+| 01/10/2023 | 1.0 | Criação do documento | Davi Rodrigues | Jonga Matos e Daniel Rodrigues |
 
 
 ## Referências

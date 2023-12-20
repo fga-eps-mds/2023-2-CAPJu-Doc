@@ -177,6 +177,10 @@ Sprint 2     | 20 | 9 | 1 |
 Sprint 3     | 15 | 9 | 1 | 
 Sprint 4     | 12 | 9 | 1 | 
 Sprint 5     | 12 | 9 | 1 | 
+Sprint 6     | 3 | 9 | 5 | 
+Sprint 7     | 3 | 9 | 5 | 
+Sprint 8     | 3 | 9 | 5 | 
+Sprint 9     | 3 | 9 | 5 | 
 
 ### Externo
 
@@ -194,6 +198,10 @@ Sprint 2     | 9 |
 Sprint 3     | 9 |  
 Sprint 4     | 9 |  
 Sprint 5     | 9 |  
+Sprint 6     | 9 |
+Sprint 7     | 9 |
+Sprint 8     | 9 |
+Sprint 9     | 9 |
 
 ### Organizacional
 
@@ -210,12 +218,16 @@ Sprint 1     | 9 | 6 |
 Sprint 2     | 8 | 6 | 
 Sprint 3     | 4 | 5 |                                         
 Sprint 4     | 4 | 5 |                                         
-Sprint 5     | 8 | 5 |                                         
+Sprint 5     | 8 | 5 | 
+Sprint 6     | 8 | 5 |  
+Sprint 7     | 15 | 4 |  
+Sprint 8     | 15 | 4 |  
+Sprint 9     | 15 | 4 |                                          
 
 ### Gerência
 
-Período | Divergência de horários entre membros da equipe | Falta de comprometimento dos membros com o projeto | Erros durante o planejamento das atividades | Falta de foco dos membros nas reuniões | Alteração do escopo | Ausência de membros durante reuniões do grupo | Desistência da disciplina | Falta de validação de artefatos com cliente         
-:-------: |:-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------:             
+Período | Divergência de horários entre membros da equipe | Falta de comprometimento dos membros com o projeto | Erros durante o planejamento das atividades | Falta de foco dos membros nas reuniões | Alteração do escopo | Ausência de membros durante reuniões do grupo | Desistência da disciplina | Falta de validação de artefatos com cliente |         
+:-------: |:-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |           
 Semana 1     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
 Semana 2     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
 Semana 3     | 5 | 8 | 15 | 20 | 10 | 6 | 4 | 6 | 
@@ -227,7 +239,11 @@ Sprint 1     | 10 | 8 | 20 | 8 | 10 | 6 | 4 | 12 |
 Sprint 2     | 12 | 8 | 20 | 8 | 10 | 6 | 4 | 12 | 
 Sprint 3     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |                                     
 Sprint 4     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 6 |                                     
-Sprint 5     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 4 |                                     
+Sprint 5     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 4 |  
+Sprint 6     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 4 |
+Sprint 7     | 12 | 16 | 8 | 6 | 5 | 10 | 3 | 16 |
+Sprint 8     | 12 | 16 | 8 | 6 | 5 | 10 | 3 | 16 |
+Sprint 9     | 12 | 16 | 8 | 6 | 5 | 10 | 3 | 16 |                                   
 
 ## Referências
 
@@ -240,3 +256,4 @@ Sprint 5     | 12 | 8 | 12 | 8 | 10 | 6 | 2 | 4 |
 | 26/09/2023 | 1.0 | Criação do documento | Brenda Santos, Washington Bispo | A definir |
 | 02/11/2023 | 1.1 | Atualizando tabelas de riscos até a sprint 3 | Brenda Santos, Washington Bispo | Leandro Almeida e Camila Careli |
 | 13/11/2023 | 1.2 | Atualizando tabelas de riscos até a sprint 4 e 5 | Denniel William | Brenda Santos, Washington Bispo |
+| 20/12/2023 | 1.3 | Atualizando tabelas de riscos até a sprint 9 | Brenda Santos, Washington Bispo | A definir |

@@ -30,7 +30,6 @@ Desenvolvida por Dai Clegg durante sua atuação na Oracle na década de 1990, a
 |---|---|---|---|---|
 | [US01](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/14) | Estagiário, Servidor, Diretor, Juiz, Administrador  | Poder visualizar uma estatística detalhada que mostre a quantidade de processos por etapa. | Ter uma visão clara que exiba a quantidade de processos por etapa, para fácil identificar gargalos, atrasos ou áreas do processo que precisam de atenção especial. | Must |
 | [US02](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/22) | Estagiário, Servidor, Diretor, Juiz, Administrador | Ter a capacidade de visualizar uma estatística que apresente a quantidade de processos concluídos dentro de um fluxo. | Monitorar de perto o andamento de processos específicos e avaliar a eficiência do fluxo em questão. | Must |
-| [US03](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/25)| Estagiário, Servidor, Diretor, Juiz, Administrador |  Ter a capacidade de visualizar as estatísticas detalhadas sobre um processo específico. | Avaliar o processo em profundidade, entender seu status atual e fazer melhorias informadas. | Must |
 | [US04](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/31)| Estagiário, Servidor, Diretor, Juiz, Administrador | Ter a capacidade de visualizar o tempo de conclusão de cada etapa de um processo dentro de uma etapa. | Ter as estatísticas do tempo gasto ou atrasos nas etapas. | Must |
 | [US05](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/23)| Estagiário, Servidor, Diretor, Juiz, Administrador | Baixar relatório em formato csv e pdf. | Ter a flexibilidade de compartilhar e amazenar os dados de maneira mais conveniente e acessível. | Must |
 
@@ -56,7 +55,6 @@ Desenvolvida por Dai Clegg durante sua atuação na Oracle na década de 1990, a
 |---|---|---|---|---|
 | [US11](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/7) | Estagiário, Servidor, Diretor, Juiz, Administrador | Filtrar processo através de etapa. | Visualizar quais processos se encontram em uma mesma etapa. | Must |
 | [US12](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/10) | Estagiário, Servidor, Diretor, Juiz, Administrador | Filtrar processo por fluxo. | Visualizar quais processos fazem parte do mesmo fluxo. | Must |
-| [US13](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/11) | Estagiário, Servidor, Diretor, Juiz, Administrador | Visualizar processos na etapa de um fluxo. | Acessar quais processos se encontram em determinada etapa de um fluxo. | Must |
 | [US14](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/20) | Estagiário, Servidor, Diretor, Juiz, Administrador | Visualizar relatório de processos filtrados pela data de vencimento de uma etapa. | Obter informações dos processos de uma etapa filtrada pela sua data de vencimento. | Must |
 
 ### [Épico de _User Experience_](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/30)
@@ -73,6 +71,15 @@ Desenvolvida por Dai Clegg durante sua atuação na Oracle na década de 1990, a
 | [US19](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/9) | Estagiário, Servidor, Diretor, Juiz, Administrador | Ter as rotas de páginas privadas autenticadas | Garantir a segurança e a privacidade dos dados e dos processos, onde somente usuários autorizados teriam acesso às páginas restritas. | Should |
 | [US20](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/15) | Estagiário, Servidor, Diretor, Juiz, Administrador | Ser deslogado depois de determinado tempo de inatividade. | Evitar acessos de usuários indesejados. | Should |
 
+Observações:
+
+As US03 e US13 foram canceladas com o andamento do projeto, pois foi observado que as funcionalidades propostas em ambas já seriam implementadas em outras US mais relevantes. Para evitar duplicidades dentro do sistema, foram canceladas com o consentimento do PO.
+
+| ID | Eu, como... | Gostaria de... | Para poder... | Priorização |
+|---|---|---|---|---|
+| [US03](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/25)| Estagiário, Servidor, Diretor, Juiz, Administrador |  Ter a capacidade de visualizar as estatísticas detalhadas sobre um processo específico. | Avaliar o processo em profundidade, entender seu status atual e fazer melhorias informadas. | - |
+| [US13](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/11) | Estagiário, Servidor, Diretor, Juiz, Administrador | Visualizar processos na etapa de um fluxo. | Acessar quais processos se encontram em determinada etapa de um fluxo. | - |
+
 ## Referências
 * PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. Entendendo Scrum para gerenciar projetos de forma ágil. Mundo PM, v. 1, p. 3-11, 2007.
 
@@ -82,4 +89,5 @@ Desenvolvida por Dai Clegg durante sua atuação na Oracle na década de 1990, a
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 30/09/2023 | 1.0 | Criação do documento | Brenda, Washington, Denniel, Felipe, Daniel, Davi, João, Leandro | A definir |
 | 30/09/2023 | 1.1 | Adição de introdução, referências e links das histórias/épicos | Brenda, Washington, Denniel, Felipe, Daniel, Davi, João, Leandro | A definir |
+| 19/12/2023 | 1.0 | Atualização | Brenda Santos | Washington e Felipe |
 
