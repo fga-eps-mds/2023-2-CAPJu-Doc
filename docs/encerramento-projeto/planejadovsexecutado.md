@@ -60,10 +60,13 @@ O documento presente tem como objetivo realizar a análise comparativa entre o p
 
 | [Épico de Rastreabilidade](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/27) |
 | -- |
+| [US06](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/21) - Visualizar o histórico das atividades dos processos | 
 | - | 
 
 | [Épico de Manutenção de processos](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/18) |
 | -- |
+| [US07](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/12) - Importação automática de processos em xlsx |
+| [US08](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/17) - Importação automática de processos em csv |
 | [US09](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/19) - Atualização e visualização de status do processo |
 
 | [Épico de Exclusão](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/24) |
@@ -78,6 +81,7 @@ O documento presente tem como objetivo realizar a análise comparativa entre o p
 
 | [Épico de _User Experience_](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/30) |
 | -- |
+| [US15](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/8) - Feedback de Erro |
 | [US16](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/13) - Agrupamento de funcionalidades |
 | [US17](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/16) - Fluxo de Exibição de Telas |
 
@@ -85,6 +89,7 @@ O documento presente tem como objetivo realizar a análise comparativa entre o p
 | -- |
 | [US18](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/5) - Criptografar autenticação |
 | [US19](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/9) - Autenticar rotas | 
+| [US20](https://github.com/fga-eps-mds/2023-2-CAPJu-Doc/issues/15) - Deslogar depois de determinado tempo de inatividade |
 
 ### 2.4 Análise
 
@@ -92,7 +97,7 @@ No backlog do produto, foram planejadas 20 atividades e, até o momento da cria�
 
 ## 3. [Custo Executado](https://fga-eps-mds.github.io/2023-2-CAPJu-Doc/projeto/custos/)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbD2DwwjAygCwPCsd7I-AycToezyulfixxfw_gS83_5o46xuReeyShzSJbqY-8DRnvAKaR76DZw7La/pubhtml?gid=1753308534&amp;single=true&amp;widget=true&amp;headers=false" style="width: 500px; height: 300px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTbD2DwwjAygCwPCsd7I-AycToezyulfixxfw_gS83_5o46xuReeyShzSJbqY-8DRnvAKaR76DZw7La/pubhtml?gid=1753308534&amp;single=true&amp;widget=true&amp;headers=false" style="width: 600px; height: 300px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 
 
 ## 4. Qualidade
@@ -123,3 +128,4 @@ No início do projeto, vários membros de MDS enfrentaram dificuldades com a con
 | Data  | Versão | Descrição | Autor(es) |
 | :--: | :--: | :--: | :--: |
 | 11/12/2023 | 1.0  | Criação da página de documentação dos planejados vs executados | Brenda Santos e Washington Bispo|
+| 20/12/2023 | 1.1  | Adição de novas US's que foram implentadas | Brenda Santos e Washington Bispo|
