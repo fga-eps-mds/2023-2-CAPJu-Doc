@@ -17,7 +17,6 @@ O diagrama EAP procura ser uma ferramenta para auxiliar na programação do proj
  - Ajudar na identificação dos custos;
  - Delimitar as etapas do projeto.
 
-
 ## Estrutura
 
 Nível 1: O nível mais geral do projeto. Nesse nível é apresentado o produto em sua totalidade.
@@ -28,7 +27,7 @@ Nível 3: No Nível 3 estão as atividades que compõem as tarefas descritas no 
 
 ## EAP do Projeto CAPju
 
-<iframe src='https://viewer.diagrams.net/?tags=%7B%7D&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=EAP.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1FTpA8ZT8dYMNGOZObNBvQJKLJfS9cfmD%26export%3Ddownload' width='100%' height='480px' style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef' sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'> </iframe> 
+<iframe frameborder="0" style="width:100%;height:793px;" src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=eap#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1DlRZk7SZX1Cj8rJ415JER74z0uWKcJnI%26export%3Ddownload"></iframe>
 
 ## Referências
 
@@ -37,6 +36,7 @@ Nível 3: No Nível 3 estão as atividades que compõem as tarefas descritas no 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
 | 03/10/2023 | 1.0 | Criação do documento | Washington Bispo |
+| 20/12/2023 | 1.1 | Atualização do documento | Brenda Santos e Washington Bispo |
 
 ## Referências
 

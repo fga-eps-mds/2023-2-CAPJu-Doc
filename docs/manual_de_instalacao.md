@@ -282,4 +282,4 @@ Para realização de um deploy continuo, recomendamos os serviços da [Netlify](
 
 | Data       | Versão | Descrição                    | Autor(es)       |Revisores|
 | ---------- | ------ | ---------------------------- | --------------- |-------------------------|
-| 18/12/2023 | 1.0    | Criação do documento | Washington Bispo | Brenda Santos e Leandro Almeida    |
+| 18/12/2023 | 1.0    | Criação do documento | Washington Bispo | Brenda Santos e Leandro Almeida |
