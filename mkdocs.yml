@@ -79,6 +79,12 @@ nav:
               - Planning: relatorios/sprints/sprint07/planning.md
           - Sprint 08:
               - Planning: relatorios/sprints/sprint08/planning.md
+  - Encerramento do Projeto:
+              - Planejado vs Executado: encerramento-projeto/planejadovsexecutado.md
+              - Próximos Passos: encerramento-projeto/proximos-passos.md
+
+          
+
   - Projeto:
       - Documento de arquitetura: projeto/arquitetura.md
       - Documento de custos: projeto/custos.md
